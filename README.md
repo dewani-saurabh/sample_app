@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
@@ -39,3 +40,7 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+=======
+# sample_app
+Learning web-development with Ruby on Rails
+>>>>>>> d5f0e2c0c7de6aef00d648c851c32626e773b465
